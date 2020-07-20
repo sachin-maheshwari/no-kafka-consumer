@@ -11,7 +11,7 @@
   "devDependencies": {},
   "dependencies": {
     "config": "^1.21.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "no-kafka": "^3.2.10"
   },
   "engines": {
